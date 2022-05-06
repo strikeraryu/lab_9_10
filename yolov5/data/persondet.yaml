@@ -1,0 +1,8 @@
+# create persondet.yaml file in data folder
+path: training/data/
+train: images/train  
+val: images/valid 
+test:  
+
+nc: 2  
+names: ['person', 'person-like']
